@@ -1,5 +1,5 @@
 # practice-repo
-This repository is just for my practice.
+I am a BEGINNER. This repository is just for my practice.
 <br>
 
 ## About
